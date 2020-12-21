@@ -1,0 +1,35 @@
+.paginate-center {
+    display: flex;
+    justify-content: center;
+}
+
+.table {
+  margin:100; 
+  th td {
+      padding: 20px;
+      vertical-align: middle;
+      border-top: 1px solid #dee2e6;
+      margin-left: 25px;
+      padding-left: 30px;
+  }
+}
+
+h1 {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  padding-left: 10px;
+}
+
+.search-bar {
+  width: 50px;
+}
+
+img {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}

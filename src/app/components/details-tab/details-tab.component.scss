@@ -1,0 +1,52 @@
+.table {
+    margin:100; 
+    th td {
+        padding: 20px;
+        vertical-align: middle;
+        border-top: 1px solid #dee2e6;
+        margin-left: 25px;
+        padding-left: 30px;
+    }
+}
+
+.headerDetails {
+    padding-top: 25px;
+    .header {
+        font-size: 32px;
+        font-weight: bolder;
+    }
+    .button {
+        padding: 10px;
+    }
+    display: flex;
+    justify-content: center;
+}
+
+.buttonGrid {
+    float: right;
+    .button {
+        padding-top: 5px;
+    }
+    .buttonAround {
+        padding-right: 5px;
+    }
+}
+
+.formClass {
+    margin: 0 auto !important;
+    max-width: 500px;
+    .inputClass {
+        padding-bottom: 20px;
+    }
+}
+.image {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.image2 {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
